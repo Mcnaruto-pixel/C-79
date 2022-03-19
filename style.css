@@ -1,0 +1,12 @@
+#submit_button{
+  margin-top: 10px;
+  margin-bottom: 10px;  
+}
+#sort_button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: none;
+}
+input{
+    margin: 10px;
+}
